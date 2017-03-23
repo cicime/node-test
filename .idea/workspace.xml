@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c4c899-2a46-429b-8829-02e1473a4cd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/languages/default.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/languages/zh-CN.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/categories.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/article.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/categories.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/comment.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/footer.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/googleanalytics.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/head.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/header.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/components/pagination.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/layout.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/page.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/post.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/layout/tags.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/base/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/archive.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/article.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/categories.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/footer.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/header.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/icon.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/layout.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/pagination.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/responsive.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/syntax.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/components/tags.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/css/style.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker/source/images/icon-heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/CNAME" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-test.iws" />
@@ -56,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="105">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -127,7 +95,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,16 +123,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hacker" />
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +220,8 @@
       <workItem from="1487927469974" duration="906000" />
       <workItem from="1490256758550" duration="4000" />
       <workItem from="1490256770848" duration="708000" />
-      <workItem from="1490257490810" duration="1448000" />
+      <workItem from="1490257490810" duration="1975000" />
+      <workItem from="1490262955960" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="add new theme">
       <created>1487927585860</created>
@@ -314,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490258791561</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="❤">
+      <created>1490258958528</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490258958528</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3072000" />
+    <option name="totallyTimeSpent" value="3608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -357,6 +329,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
@@ -378,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="0" column="2403" selection-start-line="0" selection-start-column="2403" selection-end-line="0" selection-end-column="2403" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,7 +374,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -396,7 +382,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -407,7 +392,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -416,7 +400,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -427,7 +410,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -436,104 +418,42 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
+    <entry file="file://$PROJECT_DIR$/.gitmodules" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Hacker/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/themes/Hacker/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/themes/Hacker/README.md" />
+    <entry file="file://$PROJECT_DIR$/themes/Hacker/README_zh-CN.md" />
+    <entry file="file://$PROJECT_DIR$/../../node-test/themes/Hacker/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Hacker/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Hacker/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Hacker/README.md">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1170">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Hacker/README_zh-CN.md">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-360">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../node-test/themes/Hacker/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="105">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding />
         </state>
       </provider>
