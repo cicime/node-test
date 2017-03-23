@@ -2,42 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c4c899-2a46-429b-8829-02e1473a4cd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/Hacker" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/exercise.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scaffolds/draft.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scaffolds/page.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scaffolds/post.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/写点啥.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/简直无语啦.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2017/02/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories/photo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/archive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/article.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/categories.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/header.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/icon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/syntax.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/components/tags.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon-heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photo/hello-world/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photo/写点啥/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photo/简直无语啦/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/你的歌/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/我的歌/index.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/archives/2017/02/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/archives/2017/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/archives/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/categories/photo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/base/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/archive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/article.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/categories.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/syntax.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/components/tags.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/icon-heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/photo/hello-world/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/photo/写点啥/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/photo/简直无语啦/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/你的歌/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/我的歌/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-test.iws" />
@@ -72,8 +60,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -146,6 +134,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,7 +243,7 @@
       <workItem from="1487927469974" duration="906000" />
       <workItem from="1490256758550" duration="4000" />
       <workItem from="1490256770848" duration="708000" />
-      <workItem from="1490257490810" duration="203000" />
+      <workItem from="1490257490810" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="add new theme">
       <created>1487927585860</created>
@@ -264,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487928214304</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="❤">
+      <created>1490257704020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1490257704020</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1827000" />
+    <option name="totallyTimeSpent" value="1922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -297,7 +306,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new theme" />
+    <MESSAGE value="❤" />
+    <option name="LAST_COMMIT_MESSAGE" value="❤" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -344,6 +354,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -352,6 +363,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -362,6 +374,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -370,6 +383,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -380,6 +394,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -388,6 +403,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -403,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="195">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
           <folding />
         </state>
       </provider>
